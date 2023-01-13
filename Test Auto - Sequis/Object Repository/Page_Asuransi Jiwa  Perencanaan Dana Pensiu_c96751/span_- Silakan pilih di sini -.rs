@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_- Silakan pilih di sini -</name>
+   <tag></tag>
+   <elementGuidId>1495b052-e88a-4558-a6b9-e3feaef385e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='protection']/div/div/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.jcf-select-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bd830ffe-3629-4dad-a070-d799a8e6f5fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jcf-select-text</value>
+      <webElementGuid>132d30c5-84cb-4c72-9404-04140c6d722f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Silakan pilih di sini -</value>
+      <webElementGuid>8d2b2d7a-ce2f-46e4-bb49-cf6e538dd624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;protection&quot;)/div[@class=&quot;box-dropdown text-center&quot;]/div[@class=&quot;box-dropdown__item box-dropdown__item--form&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;jcf-select jcf-unselectable jcf-select-formControl jcf-drop-active jcf-focus&quot;]/span[@class=&quot;jcf-select-text&quot;]</value>
+      <webElementGuid>070bdc38-73c9-4061-9022-99642f163289</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='protection']/div/div/div/span/span</value>
+      <webElementGuid>3e4cb0c7-d651-42a8-a417-43ece7ae54b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perhitungkan anggaran Anda dengan cara mudah di sini'])[1]/following::span[2]</value>
+      <webElementGuid>dbb33d67-165d-42c2-bcb8-4d19f3d34a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa yang Harus Anda Ketahui tentang Asuransi Jiwa'])[1]/following::span[2]</value>
+      <webElementGuid>d1dc9f33-0f79-496f-8e6f-6658c15745db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Silakan pilih di sini -'])[3]/preceding::span[3]</value>
+      <webElementGuid>3bce8c57-60f3-40be-bc38-62d19d21d12f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>afd1b914-e3ca-4cab-ae36-fbcb744bd3c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '- Silakan pilih di sini -' or . = '- Silakan pilih di sini -')]</value>
+      <webElementGuid>6e7d0e30-6e54-4408-93d1-cea656b44b64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

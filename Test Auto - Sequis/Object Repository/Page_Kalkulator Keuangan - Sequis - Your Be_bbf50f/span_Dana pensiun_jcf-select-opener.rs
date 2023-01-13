@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dana pensiun_jcf-select-opener</name>
+   <tag></tag>
+   <elementGuidId>ba8dc637-7000-4ea5-965d-19d403bb020b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='financialCalculatePensiun']/section/div[3]/div/div/div/div/span/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.jcf-select-opener</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>337d75c7-ea4e-4c1c-90c5-aaabd747c552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jcf-select-opener</value>
+      <webElementGuid>b2c3a34f-9b15-4e23-9da5-dca75463d5ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;financialCalculatePensiun&quot;)/section[@class=&quot;body-step body-step--1 current&quot;]/div[@class=&quot;content-finder form form--finder&quot;]/div[@class=&quot;content-finder__box&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;jcf-select jcf-unselectable jcf-select-formControl jcf-drop-active jcf-focus&quot;]/span[@class=&quot;jcf-select-opener&quot;]</value>
+      <webElementGuid>71c9502a-3e79-4763-bdc1-5f30564c1ea7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='financialCalculatePensiun']/section/div[3]/div/div/div/div/span/span[2]</value>
+      <webElementGuid>70f6a7a7-e201-4a75-a32d-9455f53701f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]</value>
+      <webElementGuid>5709a942-6fd5-4e9c-9973-4e2cf620a8da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Selanjutnya</name>
+   <tag></tag>
+   <elementGuidId>ab6dd31c-6cd5-4420-bfa7-d10811ae091d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.button-area.text-left.button-area--step2 > button.button.button--primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>39ee418d-ab92-47df-9c6d-de2f3c110914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>34ff94d1-a6c9-460b-83fd-3ad822202aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--primary</value>
+      <webElementGuid>37a2a62c-e7f7-43fd-8578-58bcd386d0b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selanjutnya</value>
+      <webElementGuid>f4514af5-7331-4269-8663-57ee98a11688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;financialCalculatePensiun&quot;)/section[@class=&quot;body-step body-step--2 current&quot;]/div[@class=&quot;button-area text-left button-area--step2&quot;]/button[@class=&quot;button button--primary&quot;]</value>
+      <webElementGuid>9cf01960-5119-49c1-bfa9-9735909bde12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>707679fd-44a7-4c06-b5e1-a3e3edd2c9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='financialCalculatePensiun']/section[2]/div[4]/button</value>
+      <webElementGuid>e4d1f5cd-8d3a-40e6-a01d-25b38ff750cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usia Pensiun yang Anda Inginkan (Tahun)'])[1]/following::button[1]</value>
+      <webElementGuid>84110e02-5aed-4730-ad62-0fcb25e0e0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gaya hidup yang Anda inginkan dihari tua'])[1]/preceding::button[1]</value>
+      <webElementGuid>7cfe1548-0093-45c6-9d85-04832c7068d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rasio Penggantian yang dikehendaki (%)'])[1]/preceding::button[1]</value>
+      <webElementGuid>5520b289-7da3-400a-8715-b66514641c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>2edf17f2-45ec-49a4-9e46-4ae8782365fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Selanjutnya' or . = 'Selanjutnya')]</value>
+      <webElementGuid>213a4da5-1d42-4ad6-aaf0-61a93393c875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
